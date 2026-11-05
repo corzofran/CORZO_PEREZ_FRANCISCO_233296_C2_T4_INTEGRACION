@@ -1,0 +1,106 @@
+{
+ "base_url": "https://es.wikipedia.org/wiki/",
+ "license": "CC BY-SA 4.0",
+ "temas": {
+  "agua": [
+   "Agua_potable",
+   "Sequía",
+   "Acuífero",
+   "Cuenca_hidrográfica",
+   "Presa",
+   "Inundación",
+   "Potabilización",
+   "Ciclo_hidrológico"
+  ],
+  "cafe": [
+   "Café",
+   "Coffea_arabica",
+   "Roya_del_café",
+   "Comercio_justo",
+   "Tostado_del_café",
+   "Cafeto",
+   "Cooperativa",
+   "Café_orgánico"
+  ],
+  "cacao": [
+   "Cacao",
+   "Chocolate",
+   "Theobroma_cacao",
+   "Soconusco",
+   "Fermentación",
+   "Moniliasis",
+   "Mesoamérica",
+   "Agroforestería"
+  ],
+  "turismo": [
+   "Turismo",
+   "Ecoturismo",
+   "Cañón_del_Sumidero",
+   "Palenque",
+   "San_Cristóbal_de_las_Casas",
+   "Chiapas",
+   "Selva_Lacandona",
+   "Agua_Azul"
+  ],
+  "salud": [
+   "Dengue",
+   "Aedes_aegypti",
+   "Vacuna",
+   "Desnutrición",
+   "Salud_pública",
+   "Hospital",
+   "Epidemia",
+   "Zika"
+  ],
+  "sismos": [
+   "Terremoto",
+   "Placa_tectónica",
+   "Sismología",
+   "Escala_sismológica_de_Richter",
+   "Tsunami",
+   "Falla_geológica",
+   "Réplica_sísmica",
+   "Cinturón_de_Fuego_del_Pacífico"
+  ],
+  "tecnologia": [
+   "Inteligencia_artificial",
+   "Aprendizaje_automático",
+   "Robótica",
+   "Internet",
+   "Programación",
+   "Ciencia_de_datos",
+   "Procesamiento_de_lenguaje_natural",
+   "Algoritmo"
+  ],
+  "ambiente": [
+   "Biodiversidad",
+   "Jaguar",
+   "Manglar",
+   "Deforestación",
+   "Reforestación",
+   "Reciclaje",
+   "Cambio_climático",
+   "Área_natural_protegida"
+  ],
+  "economia": [
+   "Remesa",
+   "Comercio_internacional",
+   "Mango",
+   "Banano",
+   "Mercado_(economía)",
+   "Cooperativa_de_ahorro",
+   "Exportación",
+   "Microcrédito"
+  ],
+  "cultura": [
+   "Marimba",
+   "Pozol",
+   "Tamal",
+   "Textil",
+   "Ámbar",
+   "Fiesta_patronal",
+   "Lengua_maya",
+   "Artesanía"
+  ]
+ }
+}

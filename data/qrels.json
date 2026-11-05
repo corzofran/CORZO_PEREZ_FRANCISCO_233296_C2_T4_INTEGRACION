@@ -1,0 +1,199 @@
+{
+ "consultas": [
+  {
+   "id": "q01",
+   "texto": "Cañón del Sumidero",
+   "tipo": "lexica",
+   "relevancia": {
+    "d013": 3
+   }
+  },
+  {
+   "id": "q02",
+   "texto": "Soconusco",
+   "tipo": "lexica",
+   "relevancia": {
+    "d009": 3,
+    "d049": 3
+   }
+  },
+  {
+   "id": "q03",
+   "texto": "Aedes aegypti",
+   "tipo": "lexica",
+   "relevancia": {
+    "d019": 3
+   }
+  },
+  {
+   "id": "q04",
+   "texto": "marimba",
+   "tipo": "lexica",
+   "relevancia": {
+    "d057": 3,
+    "d059": 3
+   }
+  },
+  {
+   "id": "q05",
+   "texto": "Lacandona",
+   "tipo": "lexica",
+   "relevancia": {
+    "d017": 3,
+    "d043": 3
+   }
+  },
+  {
+   "id": "q06",
+   "texto": "pozol",
+   "tipo": "lexica",
+   "relevancia": {
+    "d055": 3
+   }
+  },
+  {
+   "id": "q07",
+   "texto": "falta de agua en las colonias",
+   "tipo": "semantica",
+   "relevancia": {
+    "d001": 3,
+    "d002": 1,
+    "d003": 1,
+    "d004": 2,
+    "d005": 1,
+    "d006": 2
+   }
+  },
+  {
+   "id": "q08",
+   "texto": "temblor fuerte",
+   "tipo": "semantica",
+   "relevancia": {
+    "d025": 3,
+    "d026": 3
+   }
+  },
+  {
+   "id": "q09",
+   "texto": "enfermedad transmitida por zancudos",
+   "tipo": "semantica",
+   "relevancia": {
+    "d019": 3,
+    "d028": 1
+   }
+  },
+  {
+   "id": "q10",
+   "texto": "cultivos afectados por falta de lluvia",
+   "tipo": "semantica",
+   "relevancia": {
+    "d002": 3,
+    "d005": 1
+   }
+  },
+  {
+   "id": "q11",
+   "texto": "viajeros que visitan lugares históricos",
+   "tipo": "semantica",
+   "relevancia": {
+    "d013": 1,
+    "d014": 3,
+    "d015": 3,
+    "d016": 1,
+    "d018": 1
+   }
+  },
+  {
+   "id": "q12",
+   "texto": "aprendizaje automático para estudiantes",
+   "tipo": "semantica",
+   "relevancia": {
+    "d031": 3,
+    "d033": 2,
+    "d036": 1
+   }
+  },
+  {
+   "id": "q13",
+   "texto": "animales en peligro de extinción",
+   "tipo": "semantica",
+   "relevancia": {
+    "d043": 2,
+    "d044": 3
+   }
+  },
+  {
+   "id": "q14",
+   "texto": "caminos y puentes en mal estado",
+   "tipo": "semantica",
+   "relevancia": {
+    "d029": 2,
+    "d037": 3,
+    "d038": 3
+   }
+  },
+  {
+   "id": "q15",
+   "texto": "exportación de café orgánico",
+   "tipo": "mixta",
+   "relevancia": {
+    "d007": 3,
+    "d008": 1,
+    "d011": 2,
+    "d012": 1
+   }
+  },
+  {
+   "id": "q16",
+   "texto": "turismo y artesanías",
+   "tipo": "mixta",
+   "relevancia": {
+    "d014": 3,
+    "d018": 1,
+    "d052": 2,
+    "d058": 2,
+    "d060": 2
+   }
+  },
+  {
+   "id": "q17",
+   "texto": "huracán y protección civil",
+   "tipo": "mixta",
+   "relevancia": {
+    "d025": 1,
+    "d026": 1,
+    "d027": 3,
+    "d028": 2
+   }
+  },
+  {
+   "id": "q18",
+   "texto": "robótica en escuelas",
+   "tipo": "mixta",
+   "relevancia": {
+    "d032": 3,
+    "d033": 1,
+    "d036": 1
+   }
+  },
+  {
+   "id": "q19",
+   "texto": "cacao y chocolate",
+   "tipo": "mixta",
+   "relevancia": {
+    "d009": 3,
+    "d010": 3
+   }
+  },
+  {
+   "id": "q20",
+   "texto": "mercado de mango y fruta",
+   "tipo": "mixta",
+   "relevancia": {
+    "d049": 3,
+    "d050": 2,
+    "d053": 1
+   }
+  }
+ ]
+}

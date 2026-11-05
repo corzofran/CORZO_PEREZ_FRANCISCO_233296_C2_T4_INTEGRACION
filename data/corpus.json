@@ -1,0 +1,547 @@
+{
+ "nombre": "Corpus chiapaneco sintético",
+ "fecha_creacion": "2026-11-05",
+ "tipo": "sintetico",
+ "documentos": [
+  {
+   "id": "d001",
+   "titulo": "Colonias del norte de Tuxtla enfrentan desabasto de agua por segunda semana",
+   "texto": "Cientos de familias de las colonias del norte de la capital chiapaneca llevan dos semanas sin recibir agua en sus tomas domiciliarias. Los vecinos aseguran que el líquido llega apenas unas horas al día y con muy poca presión, por lo que han tenido que comprar pipas a precios cada vez más altos para llenar tinacos y cisternas. El organismo operador explicó que la causa es una falla en una bomba del sistema de bombeo y que trabaja en su reparación, mientras reparte agua con camiones cisterna en los puntos más afectados. Habitantes piden un calendario de entrega claro y advierten que la escasez golpea sobre todo a adultos mayores y a negocios pequeños que dependen del abastecimiento diario.",
+   "tema": "agua",
+   "subtema": "agua-colonias",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 119
+  },
+  {
+   "id": "d002",
+   "titulo": "La sequía reduce la cosecha de maíz y frijol en la región Frailesca",
+   "texto": "Productores de la región Frailesca reportan pérdidas importantes en sus parcelas de maíz y frijol debido a la falta de lluvias durante el periodo de siembra. Los campesinos explican que la humedad del suelo no fue suficiente para que las plantas completaran su desarrollo, y que muchas mazorcas salieron pequeñas o vacías. Técnicos agrícolas recomiendan sembrar variedades más resistentes a la sequía, aplicar cobertura vegetal para conservar la humedad y construir pequeñas obras de captación en las parcelas. Algunas familias ya consideran vender parte de su ganado para cubrir deudas, y piden apoyos para comprar semilla y fertilizante antes del próximo ciclo agrícola, pues temen que el temporal vuelva a retrasarse.",
+   "tema": "agua",
+   "subtema": "agua-agro",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 111
+  },
+  {
+   "id": "d003",
+   "titulo": "Baja el nivel de las presas y preocupa la generación de energía hidroeléctrica",
+   "texto": "El nivel de almacenamiento de las presas del río Grijalva descendió varios metros respecto al promedio de la temporada, lo que despierta preocupación entre ingenieros y autoridades. Un embalse con menos volumen significa menos capacidad para mover las turbinas de las hidroeléctricas y menos reserva para abastecer a los municipios cercanos. Especialistas señalan que el cambio en el patrón de lluvias y las altas temperaturas aceleran la evaporación. Por ello recomiendan administrar con cuidado las descargas, vigilar la calidad del agua almacenada y planear con anticipación los meses más secos. Mientras tanto, pescadores de las orillas ven cómo retroceden las aguas y cómo quedan expuestos tramos de lecho que antes permanecían cubiertos.",
+   "tema": "agua",
+   "subtema": "agua-presa",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 112
+  },
+  {
+   "id": "d004",
+   "titulo": "Inauguran planta potabilizadora para mejorar la calidad del agua en cabeceras municipales",
+   "texto": "Una nueva planta potabilizadora comenzó a operar para filtrar y clorar el agua que consumen miles de habitantes de la zona. El sistema retira sedimentos, reduce bacterias y mide de manera continua el cloro residual para asegurar que el líquido llegue seguro a las viviendas. Personal técnico explicó que antes del proyecto muchas familias hervían el agua o compraban garrafones, lo que representaba un gasto constante. Además, la instalación incluye un laboratorio donde se analizan muestras semanales de distintos puntos de la red. Las autoridades sanitarias pidieron a la población no desperdiciar el recurso, reportar fugas y mantener limpios los tinacos, pues una buena infraestructura no basta si el almacenamiento doméstico se contamina.",
+   "tema": "agua",
+   "subtema": "agua-potable",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 113
+  },
+  {
+   "id": "d005",
+   "titulo": "Inicia la temporada de lluvias y especialistas llaman a recargar los acuíferos",
+   "texto": "Con la llegada del temporal de lluvias, especialistas en hidrología recordaron que gran parte del agua que cae se pierde por escurrimiento si no existen zonas de infiltración. Proponen conservar bosques y áreas verdes, construir pozos de absorción y evitar que el cemento cubra todos los terrenos de las ciudades. Un acuífero bien recargado funciona como una reserva natural para los meses de estiaje, cuando los ríos bajan y las fuentes superficiales se agotan. También advirtieron que la sobreexplotación de pozos profundos puede abatir el nivel freático y encarecer la extracción. Invitaron a los municipios a vigilar las concesiones y a escuchar a las comunidades que han cuidado sus manantiales por generaciones.",
+   "tema": "agua",
+   "subtema": "agua-lluvias",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 112
+  },
+  {
+   "id": "d006",
+   "titulo": "Campaña escolar enseña a ahorrar agua y a captar lluvia en casa",
+   "texto": "Estudiantes de primaria y secundaria participan en una campaña que les enseña a cuidar el agua desde su hogar. Los talleres explican cómo reparar fugas en llaves e inodoros, cómo reutilizar el agua de la regadera para limpiar patios y cómo instalar canaletas sencillas para captar la lluvia de los techos. Los maestros organizaron concursos de dibujo y pequeñas maquetas de sistemas de recolección, con premios para los grupos más creativos. Madres y padres de familia se han sumado revisando el consumo en sus recibos y comparando resultados. Los organizadores esperan que los niños se conviertan en promotores del uso responsable del líquido, pues el ahorro cotidiano es más barato que construir nueva infraestructura.",
+   "tema": "agua",
+   "subtema": "agua-ahorro",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 114
+  },
+  {
+   "id": "d007",
+   "titulo": "Cooperativas chiapanecas exportan café orgánico a Europa y Norteamérica",
+   "texto": "Un grupo de cooperativas de la sierra chiapaneca concretó nuevos envíos de café orgánico de altura hacia mercados europeos y norteamericanos. Los productores destacan que el grano cuenta con certificaciones que garantizan que se cultiva sin agroquímicos y con prácticas de conservación del suelo. El proceso incluye cosecha manual de cerezas maduras, beneficiado húmedo, secado al sol y selección por tamaño y defectos antes de empacar en sacos de yute. Compradores internacionales valoran las notas a chocolate y frutos rojos de las muestras que probaron. Para los socios, la exportación representa mejores ingresos que la venta local, aunque reconocen que cumplir con los trámites aduanales y las auditorías exige tiempo, capacitación y una administración muy ordenada.",
+   "tema": "cafe_cacao",
+   "subtema": "cafe-exportacion",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 116
+  },
+  {
+   "id": "d008",
+   "titulo": "La roya del café avanza en cafetales de altura y obliga a renovar plantas",
+   "texto": "Productores de café reportan que la roya, un hongo que provoca manchas amarillas en las hojas, ha avanzado en varias fincas de altura. La enfermedad debilita los cafetos, reduce la fotosíntesis y puede provocar la caída de las hojas antes de que maduren los frutos. Técnicos recomiendan podar, mejorar la sombra, aplicar caldos minerales y sustituir las plantas viejas por variedades más tolerantes. También sugieren revisar los cafetales con frecuencia para detectar a tiempo los focos de infección. Algunos agricultores explican que la renovación cuesta mucho y tarda años en dar resultados, por lo que piden créditos blandos y viveros cercanos. Sin apoyo, advierten, muchas familias podrían abandonar el cultivo y emigrar.",
+   "tema": "cafe_cacao",
+   "subtema": "cafe-roya",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 112
+  },
+  {
+   "id": "d009",
+   "titulo": "El cacao del Soconusco recupera presencia en el mercado gracias a nuevas plantaciones",
+   "texto": "En la región del Soconusco, cerca de la frontera con Guatemala, productores de cacao reportan que las nuevas plantaciones comienzan a dar fruto después de varios años de espera. El cacao criollo de la zona se aprecia por su aroma floral y su baja amargura, cualidades que buscan los fabricantes de chocolate fino. Los agricultores aprendieron a injertar árboles productivos, a controlar la moniliasis y a fermentar las almendras en cajones de madera para mejorar el sabor. Aunque la cosecha sigue siendo pequeña comparada con la de otros países, los comercializadores aseguran que existe demanda para lotes de calidad. Los técnicos insisten en que el éxito depende de mantener la sombra, cuidar los suelos y vender con contratos justos.",
+   "tema": "cafe_cacao",
+   "subtema": "cacao-soconusco",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 119
+  },
+  {
+   "id": "d010",
+   "titulo": "Chocolateros artesanales de San Cristóbal transforman el cacao local en barras y bebidas",
+   "texto": "Pequeños talleres de chocolate artesanal en San Cristóbal de las Casas compran cacao de productores locales para tostarlo, molerlo y convertirlo en barras, bombones y bebidas calientes. Los maestros chocolateros explican que el proceso comienza con la selección de las almendras, continúa con el tostado a fuego lento y termina con el conchado, que suaviza la textura. Muchos negocios mezclan el cacao con canela, chile o azúcar de caña para elaborar recetas tradicionales. Los visitantes pueden asistir a talleres donde preparan su propia tableta y aprenden la historia de la bebida en la región. Los dueños señalan que pagar mejor al productor garantiza calidad constante, y que el turismo ayuda a darle un precio justo al producto.",
+   "tema": "cafe_cacao",
+   "subtema": "cacao-chocolate",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 117
+  },
+  {
+   "id": "d011",
+   "titulo": "Pequeños productores se organizan en cooperativa para vender café con comercio justo",
+   "texto": "Familias cafetaleras de una comunidad indígena formaron una cooperativa para vender juntas su cosecha y negociar mejores precios con compradores de comercio justo. Antes dependían de intermediarios que pagaban poco y por adelantado, lo que dejaba a muchos productores endeudados. Ahora comparten un beneficio húmedo, un secadero y una bodega, y llevan registros de volumen y calidad por socio. La asamblea decide cómo usar el sobreprecio que reciben, y gran parte se destina a una escuela, una clínica y caminos. Los dirigentes cuentan que las mujeres participan cada vez más en las decisiones y en la administración. Aun así, reconocen que mantener la unión exige confianza, transparencia en las cuentas y paciencia.",
+   "tema": "cafe_cacao",
+   "subtema": "cafe-cooperativa",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 112
+  },
+  {
+   "id": "d012",
+   "titulo": "El precio internacional del café cae y preocupa a los productores de la sierra",
+   "texto": "La baja en el precio internacional del café inquieta a los productores de la sierra, quienes aseguran que lo que reciben por kilo apenas alcanza para cubrir los costos de cosecha, transporte y pago de jornaleros. Los analistas explican que el mercado depende de la oferta mundial, del clima en los grandes países productores y de la especulación financiera. Cuando los precios se hunden, las familias recortan gastos, posponen el mantenimiento de las plantas y a veces dejan frutos sin cortar. Algunos buscan ingresos adicionales con la venta de café tostado y molido, o con visitas turísticas a sus fincas. Los líderes piden seguros de ingreso y apoyos que ayuden a resistir los años de cotizaciones bajas.",
+   "tema": "cafe_cacao",
+   "subtema": "cafe-precios",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 117
+  },
+  {
+   "id": "d013",
+   "titulo": "Recorridos en lancha por el Cañón del Sumidero reciben miles de visitantes",
+   "texto": "El Cañón del Sumidero continúa siendo uno de los principales atractivos del estado: cada fin de semana miles de personas abordan lanchas en Chiapa de Corzo para recorrer el río Grijalva entre paredes de roca que superan los mil metros de altura. Los guías explican la formación geológica, señalan la Cueva del Silencio y la cascada conocida como Árbol de Navidad, y ayudan a identificar cocodrilos, garzas y monos araña. Los lancheros recuerdan a los pasajeros usar chaleco salvavidas y no arrojar basura al agua. Las autoridades de turismo destacan que el parque nacional necesita limitar el número de embarcaciones y reforzar la limpieza, porque la belleza del lugar también depende del cuidado diario.",
+   "tema": "turismo",
+   "subtema": "turismo-sumidero",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 114
+  },
+  {
+   "id": "d014",
+   "titulo": "El centro histórico de San Cristóbal de las Casas atrae viajeros con sus andadores y museos",
+   "texto": "Los andadores peatonales del centro histórico de San Cristóbal de las Casas reciben a turistas nacionales y extranjeros que caminan entre casas coloniales de colores, iglesias, cafés y librerías. Los visitantes recorren el templo de Santo Domingo, el mercado de artesanías y los museos que explican la historia de los pueblos mayas de los Altos. Los comerciantes aseguran que las ventas aumentan en vacaciones, aunque lamentan que algunas calles se saturen de visitantes y vehículos. Vecinos piden regular los alquileres para evitar que los habitantes originales se vayan del barrio. Guías locales proponen rutas culturales que lleven a los viajeros a talleres de textiles, ámbar y cerámica, para repartir mejor los beneficios del turismo.",
+   "tema": "turismo",
+   "subtema": "turismo-sancristobal",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 114
+  },
+  {
+   "id": "d015",
+   "titulo": "La zona arqueológica de Palenque ofrece recorridos nocturnos y visitas guiadas",
+   "texto": "En medio de la selva, la zona arqueológica de Palenque ofrece visitas guiadas para conocer el Templo de las Inscripciones, el Palacio y los relieves que cuentan la historia de la antigua ciudad maya. Los arqueólogos explican que la ciudad alcanzó su esplendor en el siglo séptimo, bajo el gobierno de Pakal, y que su arquitectura destaca por las bóvedas y los techos decorados. Los guías recomiendan llegar temprano para evitar el calor y llevar agua, gorra y calzado cómodo. El sitio cuenta con un museo con piezas y ofrendas halladas en las excavaciones. Las autoridades piden respetar los senderos, no escalar los edificios y cuidar la vegetación que rodea las estructuras.",
+   "tema": "turismo",
+   "subtema": "turismo-palenque",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 112
+  },
+  {
+   "id": "d016",
+   "titulo": "Las cascadas de Agua Azul y los lagos de Montebello destacan entre los destinos de naturaleza",
+   "texto": "Entre los destinos de naturaleza más visitados del estado sobresalen las cascadas de Agua Azul, cuyas pozas color turquesa se forman por el carbonato de calcio disuelto en el río, y los lagos de Montebello, un conjunto de lagunas de tonos verdes y azules rodeadas de bosque. Los visitantes pueden caminar por senderos, andar en balsas o simplemente descansar en las orillas. Los pobladores indígenas que administran algunos accesos explican que en temporada de lluvias el agua se vuelve turbia y la corriente puede ser peligrosa, por lo que piden no nadar en zonas señaladas. Recomiendan llevar bloqueador biodegradable, respetar los horarios y comprar alimentos y artesanías a las familias de la comunidad.",
+   "tema": "turismo",
+   "subtema": "turismo-aguaazul",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 113
+  },
+  {
+   "id": "d017",
+   "titulo": "Comunidades de la Lacandona impulsan ecoturismo con cabañas y recorridos en la selva",
+   "texto": "Algunas comunidades cercanas a la Selva Lacandona han desarrollado proyectos de ecoturismo que ofrecen cabañas rústicas, caminatas guiadas y observación de aves. Los habitantes aprendieron a atender visitantes, preparar alimentos locales y compartir su conocimiento sobre las plantas medicinales y el comportamiento de los animales. Los ingresos se reparten entre las familias y una parte se destina a la vigilancia contra la tala ilegal. Los viajeros duermen en hamacas, escuchan a los monos aulladores al amanecer y navegan en cayucos por las lagunas. Los organizadores subrayan que el objetivo no es llenar la selva de turistas, sino ofrecer una alternativa económica que haga más valioso conservar el bosque en pie.",
+   "tema": "turismo",
+   "subtema": "turismo-ecoturismo",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 110
+  },
+  {
+   "id": "d018",
+   "titulo": "Hoteles de Chiapas reportan alta ocupación en la temporada vacacional",
+   "texto": "Los hoteleros del estado informaron que la ocupación alcanzó niveles altos durante la temporada vacacional, con reservaciones llenas en Tuxtla Gutiérrez, San Cristóbal de las Casas y Palenque. Los administradores señalan que el aumento se debe a la mejor promoción de los destinos, a las ofertas de paquetes y a la llegada de familias que viajan por carretera. Restauranteros y guías también reportan ventas superiores. Sin embargo, algunos prestadores pidieron mejorar los servicios básicos, como el agua y la recolección de basura, porque la saturación pone a prueba la capacidad de los municipios. Los expertos recomiendan diversificar la oferta y promover visitas en temporada baja para que los ingresos no dependan solo de unas pocas semanas del año.",
+   "tema": "turismo",
+   "subtema": "turismo-hoteles",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 118
+  },
+  {
+   "id": "d019",
+   "titulo": "Alertan por aumento de casos de dengue y piden eliminar criaderos del mosquito",
+   "texto": "Las autoridades sanitarias emitieron una alerta por el aumento de casos de dengue en varios municipios de la costa. La enfermedad se transmite por la picadura del mosquito Aedes aegypti, que se reproduce en agua estancada dentro y alrededor de las viviendas. Los síntomas incluyen fiebre alta, dolor de cabeza, dolor detrás de los ojos y malestar en músculos y articulaciones. Las brigadas realizan fumigación y visitas casa por casa para destruir criaderos, y piden a la población vaciar cubetas, tapar tinacos y lavar los floreros cada semana. Los médicos recomiendan acudir al hospital si hay vómito persistente, sangrado o dolor abdominal intenso, y evitar la automedicación con aspirina o antiinflamatorios.",
+   "tema": "salud",
+   "subtema": "salud-dengue",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 111
+  },
+  {
+   "id": "d020",
+   "titulo": "Arranca campaña de vacunación infantil en escuelas y centros de salud",
+   "texto": "Inició una campaña de vacunación dirigida a niñas y niños para completar sus esquemas contra el sarampión, la polio y otras enfermedades prevenibles. Las enfermeras instalaron módulos en escuelas, mercados y centros de salud, y recorrerán comunidades alejadas para llegar a quienes no han podido acudir. Los pediatras explican que las vacunas entrenan al sistema inmune para reconocer virus y bacterias sin enfermar al menor, y que mantener altas coberturas protege incluso a quienes no pueden vacunarse. Piden a madres y padres llevar la cartilla y no aplazar las dosis por miedo a reacciones leves como fiebre o dolor en el brazo. Las autoridades aseguran que el biológico es seguro y gratuito.",
+   "tema": "salud",
+   "subtema": "salud-vacunacion",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 112
+  },
+  {
+   "id": "d021",
+   "titulo": "Amplían hospital regional para atender a más pacientes y reducir traslados",
+   "texto": "La ampliación de un hospital regional permitirá atender a más pacientes sin necesidad de trasladarlos a la capital. La obra incluye nuevas camas, un área de urgencias, quirófanos y un laboratorio para estudios clínicos. Los directivos señalan que muchas familias viajaban horas para recibir atención especializada, lo que retrasaba diagnósticos y encarecía el tratamiento. Médicos y enfermeras piden que, además del equipo, se garantice personal suficiente y abasto de medicamentos, pues un edificio moderno no sirve si faltan insumos. Organizaciones sociales reclaman que la atención llegue también a las comunidades indígenas, con intérpretes en lenguas locales para explicar los diagnósticos y las indicaciones a los pacientes.",
+   "tema": "salud",
+   "subtema": "salud-hospital",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 106
+  },
+  {
+   "id": "d022",
+   "titulo": "Programas de alimentación combaten la desnutrición infantil en comunidades rurales",
+   "texto": "Un programa de alimentación busca reducir la desnutrición infantil en comunidades rurales de la sierra y la selva. El personal de salud mide el peso y la talla de los niños, ofrece desayunos escolares y entrega suplementos de vitaminas a quienes lo necesitan. Las nutriólogas también enseñan a las familias a combinar maíz, frijol, verduras y huevo para mejorar la dieta con ingredientes accesibles, y fomentan los huertos familiares. Explican que la falta de nutrientes durante los primeros años afecta el crecimiento y el aprendizaje, por lo que la prevención temprana es clave. Los responsables reconocen que la pobreza y la distancia dificultan el acceso a alimentos variados y piden que los apoyos lleguen con regularidad.",
+   "tema": "salud",
+   "subtema": "salud-nutricion",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 116
+  },
+  {
+   "id": "d023",
+   "titulo": "Crece la demanda de atención psicológica entre jóvenes y adultos",
+   "texto": "Psicólogos y trabajadores sociales reportan un aumento en la demanda de atención por ansiedad, depresión y estrés entre jóvenes y adultos. Explican que la presión económica, la violencia y los cambios después de la pandemia afectaron el bienestar emocional de muchas personas. Algunas universidades abrieron módulos de orientación gratuita y líneas telefónicas para escuchar y canalizar casos urgentes. Los especialistas recomiendan hablar con familiares o amigos, mantener rutinas de sueño y ejercicio, y buscar ayuda profesional cuando la tristeza o el miedo interfieren con el trabajo o los estudios. Piden también reducir el estigma, porque todavía mucha gente cree que acudir a terapia es señal de debilidad.",
+   "tema": "salud",
+   "subtema": "salud-mental",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 107
+  },
+  {
+   "id": "d024",
+   "titulo": "Brigadas de salud llegan a comunidades alejadas con consultas y medicamentos",
+   "texto": "Brigadas formadas por médicos, enfermeras y dentistas recorren comunidades alejadas para ofrecer consultas, curaciones y entrega de medicamentos. En cada localidad se instala un módulo en la escuela o en el salón comunal, donde se atienden infecciones, enfermedades crónicas como diabetes e hipertensión, y control de embarazos. Los vecinos agradecen que el servicio llegue a su puerta, pues el traslado a una clínica puede costar dinero y varias horas de camino. El personal también imparte pláticas sobre higiene, lavado de manos y uso correcto de los remedios. Los coordinadores reconocen que las brigadas no sustituyen a un centro de salud permanente y piden construir clínicas y capacitar parteras y promotores comunitarios.",
+   "tema": "salud",
+   "subtema": "salud-brigadas",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 111
+  },
+  {
+   "id": "d025",
+   "titulo": "Sismo de magnitud 5.8 sacude la costa y deja réplicas sin daños graves",
+   "texto": "Un sismo de magnitud 5.8 sacudió la costa de Chiapas durante la madrugada y se sintió con fuerza en varios municipios. El movimiento telúrico tuvo su epicentro frente al litoral y fue seguido por decenas de réplicas de menor intensidad. Protección civil informó que no se registraron víctimas, aunque se reportaron grietas en algunas viviendas antiguas y caída de objetos. Los vecinos salieron a las calles y esperaron a que cesara el temblor antes de volver a entrar. Los especialistas recuerdan que Chiapas se ubica en una zona de gran actividad sísmica por la interacción de placas tectónicas, y recomiendan revisar la estructura de las casas, tener una mochila de emergencia y conocer las rutas de evacuación.",
+   "tema": "riesgos",
+   "subtema": "riesgo-sismo",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 117
+  },
+  {
+   "id": "d026",
+   "titulo": "Escuelas realizan simulacro y practican protocolos de evacuación ante temblores",
+   "texto": "Cientos de escuelas participaron en un simulacro para practicar qué hacer en caso de un temblor fuerte. Los alumnos aprendieron a mantener la calma, alejarse de ventanas, protegerse debajo de mesas resistentes y salir en orden hacia las zonas de seguridad. Los maestros revisaron las rutas de salida, los extintores y los señalamientos, y los brigadistas cronometraron el tiempo de desalojo. Protección civil explicó que repetir los ejercicios ayuda a reducir el pánico y a salvar vidas, porque las personas reaccionan mejor cuando ya han ensayado. También recomendó a las familias elaborar un plan de emergencia con puntos de reunión, números telefónicos y documentos importantes guardados en una bolsa de fácil acceso.",
+   "tema": "riesgos",
+   "subtema": "riesgo-simulacro",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 112
+  },
+  {
+   "id": "d027",
+   "titulo": "Tormenta tropical amenaza la costa y autoridades preparan evacuaciones",
+   "texto": "Una tormenta tropical que podría convertirse en huracán se acerca a la costa del Pacífico y mantiene en alerta a las autoridades de protección civil. Se prevén lluvias intensas, vientos fuertes y oleaje elevado, por lo que se pidió a los pescadores no salir a altamar y a las familias de zonas bajas prepararse para evacuar. Se habilitaron albergues en escuelas y salones comunitarios, con colchonetas, alimentos y atención médica. Los meteorólogos explican que el agua cálida del océano alimenta estos fenómenos y que la trayectoria puede cambiar. Recomiendan asegurar techos, almacenar agua potable, cargar teléfonos y seguir únicamente los avisos oficiales para evitar rumores y decisiones tardías.",
+   "tema": "riesgos",
+   "subtema": "riesgo-tormenta",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 108
+  },
+  {
+   "id": "d028",
+   "titulo": "Desbordamiento de un río deja calles inundadas y familias en albergues",
+   "texto": "Tras días de lluvia constante, el desbordamiento de un río provocó inundaciones en varias colonias y obligó a decenas de familias a refugiarse en albergues. El agua alcanzó más de un metro de altura en algunas calles, arrastró muebles y dañó cultivos de las orillas. Brigadistas y voluntarios ayudaron a evacuar a niños y adultos mayores en lanchas, mientras las autoridades repartían despensas y cobijas. Después de que el nivel bajó, los vecinos comenzaron a limpiar el lodo y las autoridades sanitarias pidieron hervir el agua, desinfectar los pisos y eliminar charcos para evitar enfermedades como diarrea y dengue. Los especialistas insisten en limpiar los cauces y no construir en zonas de riesgo.",
+   "tema": "riesgos",
+   "subtema": "riesgo-inundacion",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 113
+  },
+  {
+   "id": "d029",
+   "titulo": "Deslaves bloquean un tramo carretero y complican el paso de vehículos",
+   "texto": "Las lluvias provocaron deslaves en cerros cercanos a una carretera de la sierra, lo que bloqueó el paso de vehículos durante varias horas. Maquinaria pesada retiró tierra, piedras y árboles caídos mientras los automovilistas esperaban en largas filas. Protección civil explicó que el agua satura el suelo, lo vuelve pesado e inestable y facilita que la ladera se desprenda, sobre todo donde se talaron árboles. Pidieron a los conductores no viajar de noche, evitar detenerse cerca de taludes y consultar el estado del camino antes de salir. Ingenieros advierten que se necesitan obras de contención y drenaje, y reforestar las laderas, para disminuir la repetición de estos accidentes en cada temporada de lluvias.",
+   "tema": "riesgos",
+   "subtema": "riesgo-deslave",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 113
+  },
+  {
+   "id": "d030",
+   "titulo": "Ola de calor eleva las temperaturas y autoridades piden hidratarse",
+   "texto": "Una ola de calor elevó las temperaturas por encima de los 38 grados en varias regiones del estado, y las autoridades de salud pidieron a la población hidratarse, evitar la exposición al sol entre las once de la mañana y las cuatro de la tarde y usar ropa ligera. Los médicos advierten que los niños, los adultos mayores y los trabajadores que laboran a la intemperie son los más vulnerables al golpe de calor, cuyos signos incluyen mareo, piel enrojecida, náuseas y confusión. Algunas escuelas ajustaron horarios y habilitaron espacios con sombra. Los meteorólogos relacionan estos episodios con el cambio climático y esperan que se vuelvan más frecuentes, por lo que recomiendan planificar medidas de adaptación en las ciudades.",
+   "tema": "riesgos",
+   "subtema": "riesgo-calor",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 119
+  },
+  {
+   "id": "d031",
+   "titulo": "Laboratorio universitario de inteligencia artificial entrena modelos para analizar textos en español",
+   "texto": "Un laboratorio de una universidad tecnológica trabaja con inteligencia artificial para analizar textos en español, como noticias, encuestas y mensajes de atención ciudadana. Los estudiantes entrenan modelos de aprendizaje automático que clasifican temas, detectan opiniones y resumen documentos. Para ello usan computadoras con tarjetas gráficas, bibliotecas de código abierto y conjuntos de datos revisados manualmente. Los asesores explican que la calidad del resultado depende de la calidad de los datos, y que es necesario medir errores y sesgos antes de usar un modelo en la vida real. El laboratorio planea colaborar con dependencias locales para organizar archivos y facilitar búsquedas, y abrir cursos para que más jóvenes aprendan los fundamentos de la ciencia de datos.",
+   "tema": "tecnologia",
+   "subtema": "tec-ia",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 115
+  },
+  {
+   "id": "d032",
+   "titulo": "Equipos escolares compiten en un torneo de robótica con brazos y vehículos autónomos",
+   "texto": "Estudiantes de secundaria y preparatoria participaron en un torneo de robótica donde presentaron brazos mecánicos, vehículos autónomos y robots que siguen líneas. Cada equipo diseñó, armó y programó su prototipo con sensores, motores y placas electrónicas, y enfrentó pruebas de precisión y velocidad. Los jueces destacaron la creatividad de los jóvenes y la forma en que resolvieron fallas durante el evento. Los maestros señalan que la robótica enseña matemáticas, física y trabajo en equipo de manera práctica. Los participantes agradecieron el apoyo de sus escuelas y pidieron más talleres y materiales. Los organizadores esperan que el torneo motive vocaciones en ingeniería y que algunos equipos representen al estado en competencias nacionales.",
+   "tema": "tecnologia",
+   "subtema": "tec-robotica",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 111
+  },
+  {
+   "id": "d033",
+   "titulo": "Bootcamp gratuito de programación y ciencia de datos recibe cientos de solicitudes",
+   "texto": "Un programa gratuito de programación y ciencia de datos recibió cientos de solicitudes de jóvenes interesados en aprender a escribir código y analizar información. El curso intensivo incluye clases de Python, bases de datos, estadística y proyectos prácticos, y se imparte en línea con tutorías presenciales. Los instructores explican que muchas empresas buscan personas que sepan limpiar datos, construir tableros y automatizar tareas, y que no es indispensable tener un título para empezar. Las y los participantes trabajarán en un proyecto final con datos públicos del estado, como precipitación, precios agrícolas y registros de salud. Los organizadores esperan que los egresados consigan prácticas, empleos remotos o inicien sus propios negocios digitales.",
+   "tema": "tecnologia",
+   "subtema": "tec-bootcamp",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 111
+  },
+  {
+   "id": "d034",
+   "titulo": "Instalan antenas para llevar internet a comunidades rurales sin cobertura",
+   "texto": "Una iniciativa de conectividad instaló antenas y puntos de acceso para llevar internet a comunidades rurales que carecían de cobertura. Los técnicos capacitaron a vecinos para dar mantenimiento a los equipos y administrar el servicio, que funciona con paneles solares y enlaces inalámbricos. Los maestros ya usan la conexión para descargar materiales y comunicarse con otras escuelas, y las familias hacen videollamadas con parientes que trabajan lejos. Los líderes comunitarios señalan que el acceso permite consultar precios de cultivos, realizar trámites y atender a estudiantes en línea. También advierten sobre la importancia de enseñar seguridad digital y evitar fraudes. El principal reto será sostener el costo del enlace satelital a largo plazo.",
+   "tema": "tecnologia",
+   "subtema": "tec-internet",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 112
+  },
+  {
+   "id": "d035",
+   "titulo": "Jóvenes emprendedores desarrollan una aplicación móvil para pequeños agricultores",
+   "texto": "Un equipo de jóvenes emprendedores desarrolló una aplicación móvil que ayuda a pequeños agricultores a consultar el clima, registrar sus gastos y conocer los precios de venta de sus productos. La herramienta funciona con poca conexión y ofrece mensajes de voz para las personas que leen con dificultad. Los creadores probaron el prototipo con productores de café y maíz, quienes sugirieron incluir alertas de plagas y un directorio de compradores. Cuentan que aprendieron a programar en cursos en línea y que consiguieron un pequeño capital en un concurso de innovación. Ahora buscan alianzas con cooperativas y con instituciones educativas para mejorar la aplicación, ampliar su alcance y demostrar que la tecnología puede resolver problemas del campo.",
+   "tema": "tecnologia",
+   "subtema": "tec-app",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 116
+  },
+  {
+   "id": "d036",
+   "titulo": "Entregan becas para estudiantes de ingeniería y carreras tecnológicas",
+   "texto": "Cientos de estudiantes de ingeniería y carreras tecnológicas recibieron becas que cubren colegiaturas, transporte y compra de equipo de cómputo. Las autoridades educativas explican que el apoyo busca reducir la deserción, sobre todo entre jóvenes de comunidades rurales que deben recorrer largas distancias o trabajar para sostenerse. Para conservar la beca, los alumnos deben mantener un promedio mínimo y participar en actividades de servicio comunitario. Algunos beneficiarios cuentan que podrán dedicar más tiempo a sus proyectos de software y electrónica, y otros planean realizar estancias en laboratorios. Los empresarios locales ofrecieron prácticas profesionales y pidieron que las universidades actualicen sus planes de estudio con herramientas actuales de programación y análisis de datos.",
+   "tema": "tecnologia",
+   "subtema": "tec-becas",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 112
+  },
+  {
+   "id": "d037",
+   "titulo": "Modernizan una carretera de montaña y reducen el tiempo de traslado entre municipios",
+   "texto": "La modernización de una carretera de montaña ya permite que los traslados entre dos municipios se reduzcan casi a la mitad. La obra incluyó ampliación de carriles, nueva carpeta asfáltica, señalamientos reflectantes y cunetas para desalojar el agua. Los transportistas aseguran que ahora pueden llevar el café, el maíz y el ganado con menos riesgo de accidentes y menor desgaste de sus camiones. Los habitantes cuentan que antes los baches y el lodo dejaban incomunicados a varios poblados durante la temporada de lluvias. Aun así, ingenieros recuerdan que una carretera necesita mantenimiento constante y piden vigilar el estado de los taludes. Los vecinos solicitan que también se mejoren los caminos rurales que conectan con la vía principal.",
+   "tema": "infraestructura",
+   "subtema": "infra-carretera",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 117
+  },
+  {
+   "id": "d038",
+   "titulo": "Un nuevo puente sobre el río Grijalva conectará a comunidades aisladas",
+   "texto": "La construcción de un puente sobre el río Grijalva conectará a comunidades que durante años dependieron de lanchas y cuerdas para cruzar. La estructura, de concreto y acero, tendrá carril para vehículos y pasillo para peatones, y está diseñada para resistir crecidas y sismos. Los habitantes esperan que el puente facilite que los niños lleguen a la escuela, que los enfermos sean trasladados con rapidez y que los productores vendan sus cosechas en mejores condiciones. Los ingenieros explican que se realizaron estudios del suelo y del caudal para elegir la ubicación y que se instalarán sensores para vigilar su estado. Los pobladores piden que durante la obra se contrate mano de obra local y se respeten los sitios de pesca.",
+   "tema": "infraestructura",
+   "subtema": "infra-puente",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 120
+  },
+  {
+   "id": "d039",
+   "titulo": "El aeropuerto estatal estrena rutas y busca atraer inversión y turismo",
+   "texto": "El aeropuerto estatal estrenó nuevas rutas aéreas que conectan a la entidad con otras ciudades del país y buscan atraer turismo e inversión. Los directivos indican que se ampliaron la terminal, la zona de abordaje y el estacionamiento, y que se reforzaron los servicios de seguridad. Los empresarios turísticos consideran que los vuelos directos reducen el costo y el tiempo de viaje, lo que puede aumentar la llegada de visitantes extranjeros. Los productores de café y frutas esperan usar la carga aérea para enviar productos frescos a mercados lejanos. Sin embargo, urgen a mejorar los accesos terrestres y el transporte público hacia la terminal, para que los pasajeros lleguen con facilidad y los beneficios se extiendan a la población.",
+   "tema": "infraestructura",
+   "subtema": "infra-aeropuerto",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 119
+  },
+  {
+   "id": "d040",
+   "titulo": "Estrenan rutas de transporte público para reducir el tráfico en la capital",
+   "texto": "La capital chiapaneca estrenó rutas de transporte público con unidades más modernas, paradas señalizadas y horarios más regulares. El objetivo es reducir el tráfico, disminuir la contaminación y ofrecer a los trabajadores y estudiantes una opción segura y económica. Los choferes recibieron capacitación en manejo y trato al usuario, y las unidades cuentan con espacios para personas con discapacidad. Los usuarios elogian el servicio, aunque piden que se amplíen las rutas hacia las colonias periféricas y que el boleto siga siendo accesible. Los urbanistas recuerdan que no basta con comprar camiones: se necesita planear las rutas, mantener las calles en buen estado y ordenar a los vehículos que compiten por pasaje.",
+   "tema": "infraestructura",
+   "subtema": "infra-transporte",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 111
+  },
+  {
+   "id": "d041",
+   "titulo": "Proponen ciclovías y calles peatonales para mejorar la movilidad urbana",
+   "texto": "Colectivos ciudadanos y especialistas en movilidad proponen construir ciclovías y calles peatonales para que las personas puedan moverse de manera segura sin depender del automóvil. Argumentan que la bicicleta es una alternativa económica, saludable y sin emisiones para trayectos cortos, siempre que existan carriles protegidos y estacionamientos seguros. Los comerciantes temen perder clientes, pero estudios en otras ciudades muestran que las zonas peatonales suelen aumentar las ventas. Los urbanistas sugieren iniciar con pruebas piloto los domingos, medir resultados y escuchar a los vecinos. También piden mejorar banquetas, semáforos y cruces para peatones, y capacitar a los conductores en el respeto a los ciclistas, porque una ciclovía sola no resuelve la inseguridad vial.",
+   "tema": "infraestructura",
+   "subtema": "infra-ciclovia",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 112
+  },
+  {
+   "id": "d042",
+   "titulo": "Paneles solares abastecen de energía eléctrica a poblados sin conexión a la red",
+   "texto": "Un proyecto instaló paneles solares en poblados que no tenían conexión a la red eléctrica, de modo que ahora las familias cuentan con luz para estudiar, cocinar y conservar alimentos. Cada sistema incluye paneles, una batería y focos eficientes, y el mantenimiento está a cargo de técnicos locales capacitados. Los habitantes cuentan que antes dependían de velas y lámparas de petróleo, que resultaban costosas y peligrosas. Ahora los niños hacen tarea por las noches y algunos negocios pequeños pueden usar refrigeradores. Los especialistas recuerdan que la energía solar reduce las emisiones y es adecuada para zonas remotas, aunque se requieren baterías de buena calidad y planes para reciclarlas al terminar su vida útil.",
+   "tema": "infraestructura",
+   "subtema": "infra-solar",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 113
+  },
+  {
+   "id": "d043",
+   "titulo": "Conservan la Selva Lacandona con vigilancia comunitaria y monitoreo satelital",
+   "texto": "La Selva Lacandona, una de las regiones con mayor biodiversidad de México, se vigila con ayuda de comunidades y con imágenes satelitales que permiten detectar cambios en la cobertura forestal. Los guardabosques recorren senderos para identificar tala ilegal, incendios y cacería furtiva, y reportan sus hallazgos a las autoridades ambientales. Biólogos explican que la selva alberga miles de especies de plantas, aves, mamíferos e insectos, y que regula el clima y la disponibilidad de agua en toda la región. Los habitantes piden alternativas económicas, como el ecoturismo y la producción de miel, para no depender de la agricultura que se expande sobre el bosque. La conservación, subrayan, solo funciona si beneficia a quienes viven en el territorio.",
+   "tema": "ambiente",
+   "subtema": "amb-lacandona",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 117
+  },
+  {
+   "id": "d044",
+   "titulo": "Registran jaguares y tapires con cámaras trampa en áreas protegidas",
+   "texto": "Cámaras trampa instaladas en áreas protegidas captaron imágenes de jaguares, tapires, pumas y otras especies en peligro de extinción. Los investigadores explican que estos registros permiten estimar cuántos individuos habitan una zona y cómo se desplazan entre fragmentos de selva. El jaguar, el felino más grande del continente, necesita territorios amplios y sufre por la pérdida de su hábitat y la cacería. Los biólogos recomiendan crear corredores biológicos que conecten las áreas conservadas y trabajar con ganaderos para evitar conflictos con los animales silvestres. También destacan la importancia de proteger a las aves, como el quetzal, y de educar a los niños para que valoren la fauna local y no compren animales traficados.",
+   "tema": "ambiente",
+   "subtema": "amb-jaguar",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 113
+  },
+  {
+   "id": "d045",
+   "titulo": "Viveros comunitarios reforestan laderas con árboles nativos",
+   "texto": "Viveros comunitarios producen miles de plántulas de árboles nativos que se siembran en laderas erosionadas y zonas deforestadas. Los habitantes recolectan semillas, preparan sustrato, riegan las plantas y las trasladan al terreno al comenzar las lluvias. Los técnicos forestales explican que usar especies de la región mejora la supervivencia de los árboles y ayuda a recuperar la fauna, los suelos y la capacidad de retener agua. Las familias reciben un pago por cuidar las plantaciones durante varios años y vigilar que no se quemen. Los participantes cuentan que ya observan menos deslaves y que han regresado aves e insectos polinizadores. Los organizadores piden constancia y financiamiento, pues reforestar no consiste solo en plantar, sino en cuidar.",
+   "tema": "ambiente",
+   "subtema": "amb-reforestacion",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 116
+  },
+  {
+   "id": "d046",
+   "titulo": "Programa de reciclaje y manejo de residuos reduce la basura en las ciudades",
+   "texto": "Un programa de manejo de residuos busca reducir la basura que llega a los tiraderos mediante la separación en origen, el reciclaje y la composta. Los camiones recolectores pasan en días distintos para orgánicos e inorgánicos, y los centros de acopio reciben plástico, vidrio, papel y metales. Las autoridades explican que gran parte de los desechos domésticos son restos de comida que pueden transformarse en abono, y que reciclar disminuye la contaminación y genera ingresos para los recolectores. Los vecinos señalan que al principio fue difícil acostumbrarse, pero que con talleres y vigilancia el sistema mejora. Ambientalistas piden prohibir las bolsas y envases desechables, y exigir a las empresas que se responsabilicen de sus empaques.",
+   "tema": "ambiente",
+   "subtema": "amb-residuos",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 115
+  },
+  {
+   "id": "d047",
+   "titulo": "Protegen manglares de la costa para frenar la erosión y cuidar la pesca",
+   "texto": "Comunidades de la costa trabajan para proteger los manglares, bosques de raíces en el agua que sirven de refugio a peces, camarones, cangrejos y aves. Los pescadores explican que cuando se talan los mangles disminuyen las capturas, porque desaparecen las zonas de crianza. Los biólogos agregan que estas plantas frenan la fuerza de las marejadas y de las tormentas, y almacenan grandes cantidades de carbono. Las cooperativas limpian canales, siembran propágulos y vigilan que no se rellenen los humedales para construir. También promueven recorridos en lancha para observar garzas y cocodrilos. Los líderes piden respaldo legal y apoyos económicos para sostener la vigilancia, y señalan que la salud de la laguna es la base de su alimentación e ingresos.",
+   "tema": "ambiente",
+   "subtema": "amb-manglar",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 119
+  },
+  {
+   "id": "d048",
+   "titulo": "Detectan contaminación en un río y piden sanear las descargas de aguas residuales",
+   "texto": "Estudios de calidad del agua detectaron contaminación en un río que cruza varias comunidades, atribuida a descargas de aguas residuales sin tratamiento y a residuos sólidos arrojados a su cauce. Los resultados muestran presencia de bacterias y bajo nivel de oxígeno, lo que afecta a peces y otros organismos. Habitantes que usan el río para lavar ropa y bañarse reportan irritaciones en la piel y enfermedades estomacales. Especialistas recomiendan construir plantas de tratamiento, conectar las viviendas al drenaje y vigilar a las industrias. Los vecinos organizaron jornadas de limpieza y piden que las autoridades sancionen a quienes contaminan. Recuperar el río, concluyen, es una tarea compartida que exige inversión, educación y vigilancia constante.",
+   "tema": "ambiente",
+   "subtema": "amb-rio",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 113
+  },
+  {
+   "id": "d049",
+   "titulo": "Productores de mango y plátano del Soconusco buscan nuevos mercados de exportación",
+   "texto": "Los productores de mango y plátano de la región del Soconusco buscan abrir nuevos mercados de exportación para fruta fresca. Explican que cumplir con los estándares de inocuidad, empaque y transporte en frío es indispensable para vender en el extranjero, y que muchos pequeños agricultores necesitan asesoría y financiamiento para lograrlo. Las empacadoras seleccionan la fruta por tamaño, color y madurez, y la lavan y tratan antes de cargarla en contenedores refrigerados. Los comercializadores señalan que los precios varían según la temporada y la competencia de otros países, por lo que conviene diversificar los destinos. Los agricultores piden carreteras en buen estado y trámites aduanales ágiles para que la fruta llegue fresca y a tiempo.",
+   "tema": "economia",
+   "subtema": "eco-mango",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 115
+  },
+  {
+   "id": "d050",
+   "titulo": "Los mercados tradicionales mantienen su importancia pese a las tiendas de autoservicio",
+   "texto": "Los mercados tradicionales siguen siendo un espacio clave para el comercio de alimentos, hierbas, artesanías y productos cotidianos, aunque compiten con las tiendas de autoservicio. Los locatarios aseguran que ofrecen productos frescos, trato directo y precios negociables, y que sus ventas se mantienen gracias a clientes fieles. Sin embargo, reconocen problemas como instalaciones deterioradas, falta de estacionamiento y competencia del comercio ambulante. Las autoridades anunciaron programas de remodelación, mejor recolección de basura y capacitación en pagos digitales. Los consumidores valoran la variedad de frutas y verduras locales, y los comerciantes confían en que un mercado limpio, seguro y bien organizado seguirá atrayendo a familias y turistas que buscan sabores y productos auténticos.",
+   "tema": "economia",
+   "subtema": "eco-mercado",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 112
+  },
+  {
+   "id": "d051",
+   "titulo": "Las remesas sostienen la economía de miles de familias chiapanecas",
+   "texto": "Los envíos de dinero de familiares que trabajan en otras ciudades o en el extranjero sostienen la economía de miles de hogares. Las remesas se destinan principalmente a alimentación, vivienda, salud y educación, y en algunos casos a pequeños negocios. Los especialistas explican que estos recursos aumentan el consumo local, pero también hacen que muchas comunidades dependan de ingresos externos. Recomiendan que las familias abran cuentas de ahorro, comparen comisiones y destinen una parte a inversiones productivas. Las cooperativas de ahorro ofrecen cursos de educación financiera y microcréditos para quienes desean iniciar un negocio. Los migrantes, por su parte, piden más seguridad en las rutas y mejores condiciones laborales, porque su esfuerzo mantiene vivas muchas comunidades.",
+   "tema": "economia",
+   "subtema": "eco-remesas",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 116
+  },
+  {
+   "id": "d052",
+   "titulo": "Mujeres artesanas forman una cooperativa y acceden a microcréditos",
+   "texto": "Un grupo de mujeres artesanas formó una cooperativa para comprar materiales en conjunto, fijar precios justos y vender sus bordados y textiles en ferias y tiendas en línea. Con apoyo de una organización civil recibieron microcréditos de bajo interés y capacitación en administración, fotografía de producto y atención al cliente. Las socias explican que antes vendían a intermediarios que pagaban muy poco por semanas de trabajo, y que ahora conocen sus costos y pueden decidir cuánto cobrar. Los ingresos les permiten pagar la escuela de sus hijos y mejorar sus viviendas. Aun así, enfrentan desafíos como las copias industriales de sus diseños, y piden que se protejan legalmente los patrones tradicionales de sus comunidades.",
+   "tema": "economia",
+   "subtema": "eco-artesanas",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 114
+  },
+  {
+   "id": "d053",
+   "titulo": "El comercio fronterizo con Guatemala se reactiva con nuevos controles aduanales",
+   "texto": "El comercio en la frontera sur con Guatemala se reactivó con la modernización de los controles aduanales y nuevas ventanillas para trámites. Los transportistas indican que los tiempos de espera disminuyeron, aunque todavía hay filas durante la temporada alta. Los productos que más circulan son frutas, granos, materiales de construcción y artículos de consumo, y muchos comerciantes pequeños cruzan a diario con mercancía. Las autoridades aseguran que la revisión se reforzó para evitar el contrabando y proteger a los trabajadores migrantes. Empresarios de ambos lados piden reglas claras, puentes en buen estado y menos burocracia, y señalan que la cooperación en seguridad y en infraestructura es indispensable para que el intercambio beneficie a las comunidades fronterizas.",
+   "tema": "economia",
+   "subtema": "eco-frontera",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 116
+  },
+  {
+   "id": "d054",
+   "titulo": "Capacitación laboral busca emplear a jóvenes en empresas formales",
+   "texto": "Un programa de capacitación laboral prepara a jóvenes para ocupar puestos en empresas formales de comercio, turismo, construcción y servicios. Los cursos incluyen atención al cliente, manejo de herramientas, nociones de contabilidad y habilidades como puntualidad y trabajo en equipo. Las empresas participantes ofrecen prácticas pagadas y, a quienes concluyen, la posibilidad de ser contratados. Los jóvenes cuentan que la falta de experiencia y de contactos les impedía conseguir empleo, y que el programa les da confianza y un certificado. Los especialistas advierten que, además de capacitar, se necesitan salarios dignos, seguridad social y oportunidades en las comunidades de origen, para que los jóvenes no se vean obligados a migrar.",
+   "tema": "economia",
+   "subtema": "eco-empleo",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 110
+  },
+  {
+   "id": "d055",
+   "titulo": "El pozol, la bebida tradicional que refresca las jornadas de calor",
+   "texto": "El pozol es una bebida tradicional elaborada con masa de maíz fermentada que se disuelve en agua fría y se toma durante las jornadas de calor. En muchas comunidades se prepara con cacao, y se sirve en un jícaro o en un vaso grande, con sal, chile o azúcar según el gusto. Las cocineras explican que el maíz se cuece con cal, se muele y se forma en bolas que se envuelven en hojas; con el paso de los días fermentan y adquieren un sabor ácido. Los campesinos lo llevan a sus parcelas porque sacia y da energía. Los nutriólogos señalan que aporta carbohidratos y minerales, y recomiendan prepararlo con agua limpia y conservar bien la masa para evitar enfermedades estomacales.",
+   "tema": "cultura",
+   "subtema": "cult-pozol",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 121
+  },
+  {
+   "id": "d056",
+   "titulo": "Los tamales de chipilín, un sabor imprescindible en las mesas chiapanecas",
+   "texto": "Los tamales de chipilín, una hierba aromática que se mezcla con la masa de maíz y queso, forman parte de la cocina tradicional del estado. Las cocineras explican que la masa se bate con manteca hasta que flota en agua, se extiende sobre hojas de maíz o de plátano y se rellena de queso fresco, pollo o puerco, antes de cocerse al vapor. Los tamales se preparan en bodas, fiestas patronales y reuniones familiares, y suelen acompañarse con café o chocolate caliente. Los restauranteros destacan que la cocina local utiliza ingredientes de la milpa como el frijol, la calabaza y los chiles, y que preservar las recetas es una forma de proteger la identidad cultural de la región.",
+   "tema": "cultura",
+   "subtema": "cult-tamales",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 118
+  },
+  {
+   "id": "d057",
+   "titulo": "La marimba sigue sonando en plazas y festivales como símbolo de identidad",
+   "texto": "La marimba, un instrumento de teclas de madera que se toca con baquetas, sigue sonando en plazas, bodas y festivales como símbolo de la identidad chiapaneca. Los marimbistas explican que cada tecla se afina para producir una nota, y que bajo ellas se colocan resonadores que amplifican el sonido. Es común que varios músicos toquen un mismo instrumento, mientras otros acompañan con contrabajo, guitarra y percusiones. Escuelas de música ofrecen clases para niños y jóvenes, y colectivos organizan conciertos gratuitos los fines de semana. Los artesanos que construyen marimbas lamentan que escaseen las maderas finas y piden que se cuiden los bosques. Para los aficionados, escuchar una marimba es volver a las fiestas de la infancia.",
+   "tema": "cultura",
+   "subtema": "cult-marimba",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 116
+  },
+  {
+   "id": "d058",
+   "titulo": "Tejedoras mantienen vivo el telar de cintura y los bordados tradicionales",
+   "texto": "Tejedoras de comunidades de los Altos mantienen vivo el telar de cintura y los bordados que identifican a cada pueblo. Los diseños incluyen flores, animales y figuras geométricas que tienen significado cultural y se transmiten de madres a hijas. Una prenda puede requerir semanas de trabajo, desde teñir el hilo con tintes naturales hasta tejer cada franja con paciencia. Las artesanas lamentan que los clientes regateen y que otras fábricas copien sus patrones con telas industriales. Por ello promueven etiquetas de origen, ferias donde se explica el trabajo y ventas directas que eviten intermediarios. Los jóvenes de la comunidad aprenden la técnica, y algunos diseñan ropa contemporánea sin perder los símbolos tradicionales.",
+   "tema": "cultura",
+   "subtema": "cult-textiles",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 112
+  },
+  {
+   "id": "d059",
+   "titulo": "La Fiesta Grande de Chiapa de Corzo llena de colores y música las calles",
+   "texto": "Cada enero, Chiapa de Corzo celebra una fiesta tradicional en la que participan danzantes, músicos, cocineras y cofradías. Los Parachicos, que usan máscaras de madera, sombreros de ixtle y sarapes de colores, bailan por las calles al ritmo de pitos y tambores mientras sacuden sus chinchines. Hay procesiones, comida compartida y representaciones que recuerdan la historia local. Los organizadores explican que la fiesta se transmite de generación en generación y que las familias preparan sus trajes con meses de anticipación. Los visitantes pueden probar platillos como el cochito horneado y disfrutar de la marimba. Las autoridades piden respetar a los danzantes, cuidar los espacios públicos y apoyar a los artesanos que elaboran máscaras e instrumentos.",
+   "tema": "cultura",
+   "subtema": "cult-fiesta",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 115
+  },
+  {
+   "id": "d060",
+   "titulo": "El ámbar de Chiapas, una joya natural que se talla en talleres artesanales",
+   "texto": "El ámbar de Chiapas es una resina fósil de millones de años que se extrae en minas de la sierra norte y se talla en talleres artesanales para convertirla en collares, anillos y figuras. Los artesanos explican que cada pieza es distinta, con tonos que van del amarillo al rojo y, en ocasiones, con insectos o plantas atrapados en su interior. Para trabajarlo lo lijan con paciencia y lo pulen hasta que brilla. Los vendedores recomiendan comprobar su autenticidad, porque existen imitaciones de plástico, y comprar en tiendas que muestren su origen. En San Cristóbal de las Casas hay un museo que explica su formación y su historia, y los mineros piden condiciones seguras para su trabajo.",
+   "tema": "cultura",
+   "subtema": "cult-ambar",
+   "fuente": "Texto original redactado para este proyecto (corpus sintético); lugares reales, sucesos ilustrativos.",
+   "n_palabras": 117
+  }
+ ]
+}

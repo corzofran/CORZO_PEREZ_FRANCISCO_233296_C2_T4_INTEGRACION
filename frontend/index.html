@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Buscador · Minería de Datos T4</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header><h1>Buscador de noticias</h1><p class="sub">TF-IDF · BM25 · Embeddings · Híbrido (RRF)</p></header>
+<nav class="tabs" role="tablist">
+  <button role="tab" data-tab="buscar" class="active">Buscar</button>
+  <button role="tab" data-tab="comparar">Comparar</button>
+  <button role="tab" data-tab="latencia">Latencia</button>
+</nav>
+<form id="form" class="searchbar">
+  <input id="q" type="search" placeholder="Escribe una consulta…" autocomplete="off" aria-label="Consulta">
+  <button type="submit">Buscar</button>
+</form>
+<div id="examples" class="chips"></div>
+<main>
+  <section id="tab-buscar" class="panel active">
+    <div id="engine-picker" class="picker" role="radiogroup" aria-label="Motor"></div>
+    <p id="meta" class="meta"></p><div id="results"></div>
+  </section>
+  <section id="tab-comparar" class="panel"><p id="cmp-meta" class="meta"></p><div id="cmp" class="grid"></div></section>
+  <section id="tab-latencia" class="panel">
+    <p class="meta">Latencia medida en el servidor (solo búsqueda), acumulada desde el último reinicio.</p>
+    <table id="lat"><thead><tr><th>Motor</th><th>n</th><th>p50</th><th>p95</th><th>p99</th></tr></thead><tbody></tbody></table>
+    <button id="reset" type="button">Reiniciar contadores</button>
+  </section>
+</main>
+<dialog id="dlg"><article><h2 id="dlg-t"></h2><p id="dlg-x"></p><small id="dlg-f"></small></article><form method="dialog"><button>Cerrar</button></form></dialog>
+<script src="utils.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

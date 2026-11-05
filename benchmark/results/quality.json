@@ -1,0 +1,682 @@
+{
+ "tfidf": {
+  "global": {
+   "ndcg": 0.8600507530968049,
+   "mrr": 0.9666666666666666,
+   "recall": 0.7191666666666666,
+   "n": 20
+  },
+  "por_tipo": {
+   "lexica": {
+    "ndcg": 1.0,
+    "mrr": 1.0,
+    "recall": 1.0,
+    "n": 6
+   },
+   "mixta": {
+    "ndcg": 0.8286122791645228,
+    "mrr": 1.0,
+    "recall": 0.5750000000000001,
+    "n": 6
+   },
+   "semantica": {
+    "ndcg": 0.7786676733686199,
+    "mrr": 0.9166666666666666,
+    "recall": 0.6166666666666667,
+    "n": 8
+   }
+  },
+  "por_consulta": [
+   {
+    "id": "q01",
+    "tipo": "lexica",
+    "ndcg": 1.0,
+    "mrr": 1.0,
+    "recall": 1.0
+   },
+   {
+    "id": "q02",
+    "tipo": "lexica",
+    "ndcg": 1.0,
+    "mrr": 1.0,
+    "recall": 1.0
+   },
+   {
+    "id": "q03",
+    "tipo": "lexica",
+    "ndcg": 1.0,
+    "mrr": 1.0,
+    "recall": 1.0
+   },
+   {
+    "id": "q04",
+    "tipo": "lexica",
+    "ndcg": 1.0,
+    "mrr": 1.0,
+    "recall": 1.0
+   },
+   {
+    "id": "q05",
+    "tipo": "lexica",
+    "ndcg": 1.0,
+    "mrr": 1.0,
+    "recall": 1.0
+   },
+   {
+    "id": "q06",
+    "tipo": "lexica",
+    "ndcg": 1.0,
+    "mrr": 1.0,
+    "recall": 1.0
+   },
+   {
+    "id": "q07",
+    "tipo": "semantica",
+    "ndcg": 0.6244247138302589,
+    "mrr": 1.0,
+    "recall": 0.16666666666666666
+   },
+   {
+    "id": "q08",
+    "tipo": "semantica",
+    "ndcg": 0.9197207891481876,
+    "mrr": 1.0,
+    "recall": 1.0
+   },
+   {
+    "id": "q09",
+    "tipo": "semantica",
+    "ndcg": 0.9173194127129571,
+    "mrr": 1.0,
+    "recall": 0.5
+   },
+   {
+    "id": "q10",
+    "tipo": "semantica",
+    "ndcg": 0.45865970635647857,
+    "mrr": 0.3333333333333333,
+    "recall": 0.5
+   },
+   {
+    "id": "q11",
+    "tipo": "semantica",
+    "ndcg": 0.8583826172677226,
+    "mrr": 1.0,
+    "recall": 0.6
+   },
+   {
+    "id": "q12",
+    "tipo": "semantica",
+    "ndcg": 0.7984848580994974,
+    "mrr": 1.0,
+    "recall": 0.6666666666666666
+   },
+   {
+    "id": "q13",
+    "tipo": "semantica",
+    "ndcg": 0.7871546029909718,
+    "mrr": 1.0,
+    "recall": 0.5
+   },
+   {
+    "id": "q14",
+    "tipo": "semantica",
+    "ndcg": 0.8651946865428847,
+    "mrr": 1.0,
+    "recall": 1.0
+   },
+   {
+    "id": "q15",
+    "tipo": "mixta",
+    "ndcg": 0.7634779962949486,
+    "mrr": 1.0,
+    "recall": 0.5
+   },
+   {
+    "id": "q16",
+    "tipo": "mixta",
+    "ndcg": 0.5798699757173987,
+    "mrr": 1.0,
+    "recall": 0.2
+   },
+   {
+    "id": "q17",
+    "tipo": "mixta",
+    "ndcg": 0.8206478711644428,
+    "mrr": 1.0,
+    "recall": 0.75
+   },
+   {
+    "id": "q18",
+    "tipo": "mixta",
+    "ndcg": 0.8609101556836468,
+    "mrr": 1.0,
+    "recall": 0.3333333333333333
+   },
+   {
+    "id": "q19",
+    "tipo": "mixta",
+    "ndcg": 1.0,
+    "mrr": 1.0,
+    "recall": 1.0
+   },
+   {
+    "id": "q20",
+    "tipo": "mixta",
+    "ndcg": 0.9467676761267002,
+    "mrr": 1.0,
+    "recall": 0.6666666666666666
+   }
+  ]
+ },
+ "bm25": {
+  "global": {
+   "ndcg": 0.8678149959850184,
+   "mrr": 0.9666666666666666,
+   "recall": 0.7291666666666667,
+   "n": 20
+  },
+  "por_tipo": {
+   "lexica": {
+    "ndcg": 1.0,
+    "mrr": 1.0,
+    "recall": 1.0,
+    "n": 6
+   },
+   "mixta": {
+    "ndcg": 0.8297884329987094,
+    "mrr": 1.0,
+    "recall": 0.5750000000000001,
+    "n": 6
+   },
+   "semantica": {
+    "ndcg": 0.7971961652135142,
+    "mrr": 0.9166666666666666,
+    "recall": 0.6416666666666667,
+    "n": 8
+   }
+  },
+  "por_consulta": [
+   {
+    "id": "q01",
+    "tipo": "lexica",
+    "ndcg": 1.0,
+    "mrr": 1.0,
+    "recall": 1.0
+   },
+   {
+    "id": "q02",
+    "tipo": "lexica",
+    "ndcg": 1.0,
+    "mrr": 1.0,
+    "recall": 1.0
+   },
+   {
+    "id": "q03",
+    "tipo": "lexica",
+    "ndcg": 1.0,
+    "mrr": 1.0,
+    "recall": 1.0
+   },
+   {
+    "id": "q04",
+    "tipo": "lexica",
+    "ndcg": 1.0,
+    "mrr": 1.0,
+    "recall": 1.0
+   },
+   {
+    "id": "q05",
+    "tipo": "lexica",
+    "ndcg": 1.0,
+    "mrr": 1.0,
+    "recall": 1.0
+   },
+   {
+    "id": "q06",
+    "tipo": "lexica",
+    "ndcg": 1.0,
+    "mrr": 1.0,
+    "recall": 1.0
+   },
+   {
+    "id": "q07",
+    "tipo": "semantica",
+    "ndcg": 0.6244247138302589,
+    "mrr": 1.0,
+    "recall": 0.16666666666666666
+   },
+   {
+    "id": "q08",
+    "tipo": "semantica",
+    "ndcg": 1.0,
+    "mrr": 1.0,
+    "recall": 1.0
+   },
+   {
+    "id": "q09",
+    "tipo": "semantica",
+    "ndcg": 0.9173194127129571,
+    "mrr": 1.0,
+    "recall": 0.5
+   },
+   {
+    "id": "q10",
+    "tipo": "semantica",
+    "ndcg": 0.45865970635647857,
+    "mrr": 0.3333333333333333,
+    "recall": 0.5
+   },
+   {
+    "id": "q11",
+    "tipo": "semantica",
+    "ndcg": 0.8887620474344753,
+    "mrr": 1.0,
+    "recall": 0.8
+   },
+   {
+    "id": "q12",
+    "tipo": "semantica",
+    "ndcg": 0.7984848580994974,
+    "mrr": 1.0,
+    "recall": 0.6666666666666666
+   },
+   {
+    "id": "q13",
+    "tipo": "semantica",
+    "ndcg": 0.7871546029909718,
+    "mrr": 1.0,
+    "recall": 0.5
+   },
+   {
+    "id": "q14",
+    "tipo": "semantica",
+    "ndcg": 0.902763980283475,
+    "mrr": 1.0,
+    "recall": 1.0
+   },
+   {
+    "id": "q15",
+    "tipo": "mixta",
+    "ndcg": 0.7634779962949486,
+    "mrr": 1.0,
+    "recall": 0.5
+   },
+   {
+    "id": "q16",
+    "tipo": "mixta",
+    "ndcg": 0.5798699757173987,
+    "mrr": 1.0,
+    "recall": 0.2
+   },
+   {
+    "id": "q17",
+    "tipo": "mixta",
+    "ndcg": 0.8277047941695622,
+    "mrr": 1.0,
+    "recall": 0.75
+   },
+   {
+    "id": "q18",
+    "tipo": "mixta",
+    "ndcg": 0.8609101556836468,
+    "mrr": 1.0,
+    "recall": 0.3333333333333333
+   },
+   {
+    "id": "q19",
+    "tipo": "mixta",
+    "ndcg": 1.0,
+    "mrr": 1.0,
+    "recall": 1.0
+   },
+   {
+    "id": "q20",
+    "tipo": "mixta",
+    "ndcg": 0.9467676761267002,
+    "mrr": 1.0,
+    "recall": 0.6666666666666666
+   }
+  ]
+ },
+ "embeddings": {
+  "global": {
+   "ndcg": 0.76201281992557,
+   "mrr": 0.8375,
+   "recall": 0.6966666666666667,
+   "n": 20
+  },
+  "por_tipo": {
+   "lexica": {
+    "ndcg": 0.6491663126906747,
+    "mrr": 0.625,
+    "recall": 0.75,
+    "n": 6
+   },
+   "mixta": {
+    "ndcg": 0.7492258536078014,
+    "mrr": 0.9166666666666666,
+    "recall": 0.5888888888888889,
+    "n": 6
+   },
+   "semantica": {
+    "ndcg": 0.856237925090068,
+    "mrr": 0.9375,
+    "recall": 0.7375,
+    "n": 8
+   }
+  },
+  "por_consulta": [
+   {
+    "id": "q01",
+    "tipo": "lexica",
+    "ndcg": 1.0,
+    "mrr": 1.0,
+    "recall": 1.0
+   },
+   {
+    "id": "q02",
+    "tipo": "lexica",
+    "ndcg": 0.0,
+    "mrr": 0.0,
+    "recall": 0.0
+   },
+   {
+    "id": "q03",
+    "tipo": "lexica",
+    "ndcg": 1.0,
+    "mrr": 1.0,
+    "recall": 1.0
+   },
+   {
+    "id": "q04",
+    "tipo": "lexica",
+    "ndcg": 1.0,
+    "mrr": 1.0,
+    "recall": 1.0
+   },
+   {
+    "id": "q05",
+    "tipo": "lexica",
+    "ndcg": 0.2640681225725909,
+    "mrr": 0.25,
+    "recall": 0.5
+   },
+   {
+    "id": "q06",
+    "tipo": "lexica",
+    "ndcg": 0.6309297535714575,
+    "mrr": 0.5,
+    "recall": 1.0
+   },
+   {
+    "id": "q07",
+    "tipo": "semantica",
+    "ndcg": 0.5661912961456771,
+    "mrr": 0.5,
+    "recall": 0.5
+   },
+   {
+    "id": "q08",
+    "tipo": "semantica",
+    "ndcg": 0.6131471927654584,
+    "mrr": 1.0,
+    "recall": 0.5
+   },
+   {
+    "id": "q09",
+    "tipo": "semantica",
+    "ndcg": 0.9173194127129571,
+    "mrr": 1.0,
+    "recall": 0.5
+   },
+   {
+    "id": "q10",
+    "tipo": "semantica",
+    "ndcg": 0.9828422279067397,
+    "mrr": 1.0,
+    "recall": 1.0
+   },
+   {
+    "id": "q11",
+    "tipo": "semantica",
+    "ndcg": 0.8245617216304947,
+    "mrr": 1.0,
+    "recall": 0.4
+   },
+   {
+    "id": "q12",
+    "tipo": "semantica",
+    "ndcg": 0.9721212198129313,
+    "mrr": 1.0,
+    "recall": 1.0
+   },
+   {
+    "id": "q13",
+    "tipo": "semantica",
+    "ndcg": 1.0,
+    "mrr": 1.0,
+    "recall": 1.0
+   },
+   {
+    "id": "q14",
+    "tipo": "semantica",
+    "ndcg": 0.9737203297462859,
+    "mrr": 1.0,
+    "recall": 1.0
+   },
+   {
+    "id": "q15",
+    "tipo": "mixta",
+    "ndcg": 0.7125794632086188,
+    "mrr": 1.0,
+    "recall": 0.25
+   },
+   {
+    "id": "q16",
+    "tipo": "mixta",
+    "ndcg": 0.5798699757173987,
+    "mrr": 1.0,
+    "recall": 0.2
+   },
+   {
+    "id": "q17",
+    "tipo": "mixta",
+    "ndcg": 0.8206478711644428,
+    "mrr": 1.0,
+    "recall": 0.75
+   },
+   {
+    "id": "q18",
+    "tipo": "mixta",
+    "ndcg": 0.9860843475230173,
+    "mrr": 1.0,
+    "recall": 1.0
+   },
+   {
+    "id": "q19",
+    "tipo": "mixta",
+    "ndcg": 0.6509209298071325,
+    "mrr": 0.5,
+    "recall": 1.0
+   },
+   {
+    "id": "q20",
+    "tipo": "mixta",
+    "ndcg": 0.7452525342261976,
+    "mrr": 1.0,
+    "recall": 0.3333333333333333
+   }
+  ]
+ },
+ "hybrid": {
+  "global": {
+   "ndcg": 0.9077032967296459,
+   "mrr": 1.0,
+   "recall": 0.79,
+   "n": 20
+  },
+  "por_tipo": {
+   "lexica": {
+    "ndcg": 1.0,
+    "mrr": 1.0,
+    "recall": 1.0,
+    "n": 6
+   },
+   "mixta": {
+    "ndcg": 0.8256919035088156,
+    "mrr": 1.0,
+    "recall": 0.6166666666666667,
+    "n": 6
+   },
+   "semantica": {
+    "ndcg": 0.8999893141925032,
+    "mrr": 1.0,
+    "recall": 0.7625,
+    "n": 8
+   }
+  },
+  "por_consulta": [
+   {
+    "id": "q01",
+    "tipo": "lexica",
+    "ndcg": 1.0,
+    "mrr": 1.0,
+    "recall": 1.0
+   },
+   {
+    "id": "q02",
+    "tipo": "lexica",
+    "ndcg": 1.0,
+    "mrr": 1.0,
+    "recall": 1.0
+   },
+   {
+    "id": "q03",
+    "tipo": "lexica",
+    "ndcg": 1.0,
+    "mrr": 1.0,
+    "recall": 1.0
+   },
+   {
+    "id": "q04",
+    "tipo": "lexica",
+    "ndcg": 1.0,
+    "mrr": 1.0,
+    "recall": 1.0
+   },
+   {
+    "id": "q05",
+    "tipo": "lexica",
+    "ndcg": 1.0,
+    "mrr": 1.0,
+    "recall": 1.0
+   },
+   {
+    "id": "q06",
+    "tipo": "lexica",
+    "ndcg": 1.0,
+    "mrr": 1.0,
+    "recall": 1.0
+   },
+   {
+    "id": "q07",
+    "tipo": "semantica",
+    "ndcg": 0.7396783223424215,
+    "mrr": 1.0,
+    "recall": 0.3333333333333333
+   },
+   {
+    "id": "q08",
+    "tipo": "semantica",
+    "ndcg": 0.9197207891481876,
+    "mrr": 1.0,
+    "recall": 1.0
+   },
+   {
+    "id": "q09",
+    "tipo": "semantica",
+    "ndcg": 0.9173194127129571,
+    "mrr": 1.0,
+    "recall": 0.5
+   },
+   {
+    "id": "q10",
+    "tipo": "semantica",
+    "ndcg": 1.0,
+    "mrr": 1.0,
+    "recall": 1.0
+   },
+   {
+    "id": "q11",
+    "tipo": "semantica",
+    "ndcg": 0.8549411517972474,
+    "mrr": 1.0,
+    "recall": 0.6
+   },
+   {
+    "id": "q12",
+    "tipo": "semantica",
+    "ndcg": 0.8124242481930318,
+    "mrr": 1.0,
+    "recall": 0.6666666666666666
+   },
+   {
+    "id": "q13",
+    "tipo": "semantica",
+    "ndcg": 0.95583058934618,
+    "mrr": 1.0,
+    "recall": 1.0
+   },
+   {
+    "id": "q14",
+    "tipo": "semantica",
+    "ndcg": 1.0,
+    "mrr": 1.0,
+    "recall": 1.0
+   },
+   {
+    "id": "q15",
+    "tipo": "mixta",
+    "ndcg": 0.8028584771120825,
+    "mrr": 1.0,
+    "recall": 0.75
+   },
+   {
+    "id": "q16",
+    "tipo": "mixta",
+    "ndcg": 0.5798699757173987,
+    "mrr": 1.0,
+    "recall": 0.2
+   },
+   {
+    "id": "q17",
+    "tipo": "mixta",
+    "ndcg": 0.8277047941695622,
+    "mrr": 1.0,
+    "recall": 0.75
+   },
+   {
+    "id": "q18",
+    "tipo": "mixta",
+    "ndcg": 0.8609101556836468,
+    "mrr": 1.0,
+    "recall": 0.3333333333333333
+   },
+   {
+    "id": "q19",
+    "tipo": "mixta",
+    "ndcg": 1.0,
+    "mrr": 1.0,
+    "recall": 1.0
+   },
+   {
+    "id": "q20",
+    "tipo": "mixta",
+    "ndcg": 0.882808018370203,
+    "mrr": 1.0,
+    "recall": 0.6666666666666666
+   }
+  ]
+ }
+}
